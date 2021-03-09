@@ -1,2 +1,2 @@
-# wbl2-group-prj-
+# wbl2-group-prj
 UWS Group Project 
